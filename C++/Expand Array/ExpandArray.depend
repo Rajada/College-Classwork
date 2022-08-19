@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1400104852 source:f:\c++ class\project6\expandarray\main.cpp
+	"ExpandArray.h"
+
+1400106644 f:\c++ class\project6\expandarray\expandarray.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1400093798 source:k:\c++ class\project6\expandarray\main.cpp
+	"ExpandArray.h"
+
+1400095406 k:\c++ class\project6\expandarray\expandarray.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+
