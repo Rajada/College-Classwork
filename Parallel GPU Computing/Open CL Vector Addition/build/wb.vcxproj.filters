@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbArg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbCUDA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbDataset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbDirectory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbExit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbExport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbImport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbInit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbMPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbPPM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbSolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbSparse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\wbTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\libwb\vendor\json11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{43433F92-C24D-3761-9532-492E6B5894ED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

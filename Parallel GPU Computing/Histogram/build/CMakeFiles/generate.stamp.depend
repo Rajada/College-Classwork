@@ -1,0 +1,35 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindCUDA/run_nvcc.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/CMakeFiles/3.21.2/CMakeCCompiler.cmake
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/CMakeFiles/3.21.2/CMakeCXXCompiler.cmake
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/CMakeFiles/3.21.2/CMakeRCCompiler.cmake
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/CMakeFiles/3.21.2/CMakeSystem.cmake
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/CMakeFiles/Histogram_Template.dir/Histogram/Histogram_Template_generated_template.cu.obj.cmake.pre-gen
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/CMakeFiles/Histogram_Template.dir/Histogram/Histogram_Template_generated_template.cu.obj.depend
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/CMakeFiles/ListScan_Template.dir/ListScan/ListScan_Template_generated_template.cu.obj.cmake.pre-gen
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/CMakeFiles/ListScan_Template.dir/ListScan/ListScan_Template_generated_template.cu.obj.depend
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/source/CMakeLists.txt
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/source/Histogram/sources.cmake
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/source/ListScan/sources.cmake
+C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/source/libwb/sources.cmake

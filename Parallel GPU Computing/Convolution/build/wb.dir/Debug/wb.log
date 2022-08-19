@@ -1,0 +1,31 @@
+﻿  Building Custom Rule C:/Users/Rajada/Desktop/CSC 163 Parallel/A2/source/CMakeLists.txt
+  wbArg.cpp
+  wbCUDA.cpp
+  wbDataset.cpp
+  wbDirectory.cpp
+  wbExit.cpp
+  wbExport.cpp
+  wbFile.cpp
+  wbImage.cpp
+  wbImport.cpp
+  wbInit.cpp
+  wbLogger.cpp
+  wbMPI.cpp
+  wbPPM.cpp
+  wbPath.cpp
+  wbSolution.cpp
+  wbSparse.cpp
+  wbTimer.cpp
+  json11.cpp
+C:\Users\Rajada\Desktop\CSC 163 Parallel\A2\source\libwb\vendor\json11.cpp(270,12): warning C4244: 'return': conversion from 'const T' to 'double', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\Rajada\Desktop\CSC 163 Parallel\A2\source\libwb\vendor\json11.cpp(295,12): warning C4244: 'return': conversion from 'const T' to 'double', possible loss of data
+          with
+          [
+              T=uint64_t
+          ]
+  Generating Code...
+  wb.vcxproj -> C:\Users\Rajada\Desktop\CSC 163 Parallel\A2\build\Debug\wb.lib

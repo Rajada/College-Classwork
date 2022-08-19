@@ -1,0 +1,10 @@
+^C:\USERS\RAJADA\DESKTOP\CSC 163 PARALLEL\A3\BUILD\CMAKEFILES\AFA7DD01882AD86DEDC06C9BDC938248\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Rajada/Desktop/CSC 163 Parallel/A3/source" "-BC:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Rajada/Desktop/CSC 163 Parallel/A3/build/a3.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

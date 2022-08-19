@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\OpenCLVectorAdd\template.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Rajada\Desktop\CSC 163 Parallel\A4\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{43433F92-C24D-3761-9532-492E6B5894ED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
