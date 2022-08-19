@@ -1,0 +1,13 @@
+#include <string.h>
+#include "strdcpy.h"
+
+char *strdcpy(char *dest, const char *src, const char *delim)
+{
+  char *oldDest = dest;
+  while (*src && !strchr(delim, *src))
+  {
+    *(dest++) = *(src++);
+  }
+  *(dest++) = 0;
+  return oldDest;
+}
